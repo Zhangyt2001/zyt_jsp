@@ -157,7 +157,7 @@ patches_list.append(mpatches.Patch(color='red', label='Constraint Violation'))
 plt.legend(handles=patches_list)
 
 # Save chart to file
-plt.savefig('5')
+plt.savefig('4')
 
 # Show chart
 plt.show()
